@@ -1,4 +1,4 @@
-package com.example.activitychecker
+package com.hogehoge.activity_monitor
 
 import android.content.Intent
 import android.net.Uri

@@ -1,4 +1,4 @@
-package com.example.activitychecker
+package com.hogehoge.activity_monitor
 
 import android.accessibilityservice.AccessibilityService
 import android.graphics.Color
