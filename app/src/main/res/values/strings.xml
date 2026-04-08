@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Activity-monitor</string>
+    <string name="accessibility_service_description">Monitors activity to provide overlay information.</string>
+</resources>
